@@ -8,6 +8,7 @@ The game come with a predefined maze (the editor is part of another program I wi
 - **2**
 - **2**
 - **este**
+
 You will see something like this:
 
 ![Start Screen](screenshot1.png "Start Screen")
