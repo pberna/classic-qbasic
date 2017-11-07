@@ -1,4 +1,4 @@
-# Laberynth
+# Labyrinth
 This is a first approach to implement a fake 3D game. The goal is to exit the maze where the player is. To run the program you may use http://www.qb64.net/.
 After installing it, run the file LABERIN2.BAS. 
 The game comes with a predefined maze (the editor is part of another program I will upload later). To play with it, you have to enter the following data prompted by the console:
